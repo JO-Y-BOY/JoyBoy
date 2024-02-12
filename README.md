@@ -1,6 +1,6 @@
 ### Hello, I'm JoyBoy
 #### Passionate Coder & Tech Enthusiast
-![Passionate coder and tech enthusiast]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif))
+![Passionate coder and tech enthusiast](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 Proficient in various programming languages and technologies, with a focus on Cyber Security, Robotics, Programming, etc. Always eager to learn and collaborate on exciting projects that push the boundaries of technology."
 
