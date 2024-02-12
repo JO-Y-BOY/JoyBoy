@@ -11,7 +11,7 @@ Feel free to tweak it to better reflect your unique skills and interests!
 ## Support
 <p><a href="https://www.buymeacoffee.com/joy.boy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JoyBoy" /></a></p><br><br>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="JOY.BOY" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a Coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+/* <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="JOY.BOY" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a Coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script> */
 
 
 
