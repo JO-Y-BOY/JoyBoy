@@ -6,6 +6,9 @@ Proficient in various programming languages and technologies, with a focus on Cy
 
 Feel free to tweak it to better reflect your unique skills and interests!
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/joy.boy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JoyBoy" /></a></p><br><br>
+
 
 
 
